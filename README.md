@@ -1,5 +1,6 @@
 ### Hello World, I'm Paula Wiltiner 👋
 
+#### I'm a creative, persistent, dedicated and goodvibes person!!
 <!--
 **PaulaWiltiner/PaulaWiltiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+#### You can also find me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -28,3 +35,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner" />
 
 </details>
+
+[instagram]: https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/
