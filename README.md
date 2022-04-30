@@ -1,27 +1,21 @@
 ### Hello World, I'm Paula Wiltiner 👋
 
 #### I'm a creative, persistent, dedicated and goodvibes person!!
-<!--
-**PaulaWiltiner/PaulaWiltiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### Some facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+- :heart_eyes: I have always loved entrepreneurship and leadership positions
+- :student: I have already taken three different engineering courses at USP: petroleum, chemistry and production
+-	:two_women_holding_hands: I worked with my twin sister as freelance developers. You can check our work here
+- :lotus_position_woman: I love to meditate on the grass or sand at the beach 
+- 😄 Pronouns: She / her
 
 
 #### You can also find me on:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+<br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
