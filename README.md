@@ -26,11 +26,11 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     
-  <img align="center"  alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner&theme=react" height="220" />
+  <img align="center"  alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner&theme=react" height="200" />
 
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" alt="Paula Wiltiner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&hide_border=true&theme=react" height="220"/>
+    <img align="right" alt="Paula Wiltiner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&hide_border=true&theme=react" height="200"/>
   </a>
 </div>
 
