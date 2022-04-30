@@ -26,7 +26,7 @@
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     
-  <img align="center"  alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner" />
+  <img align="center"  alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner&theme=react" />
 
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
