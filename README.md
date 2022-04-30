@@ -1,8 +1,8 @@
+<img align="right" alt="motivation.txt" src="https://github.com/PaulaWiltiner/PaulaWiltiner/blob/main/repeat.gif?raw=true" width="400" height="400" />
+
 ### Hello World, I'm Paula Wiltiner 👋
 
 #### I'm a creative, persistent, dedicated and goodvibes person!!
-
-<img align="right" alt="motivation.txt" src="https://github.com/PaulaWiltiner/PaulaWiltiner/blob/main/repeat.gif?raw=true" width="400" height="400" />
 
 #### < Some facts about me />
 
@@ -14,16 +14,15 @@
 
 
 ####  < You can also find me on />
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)](https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)
 
 <br />
-<br />
 
-#### <  GitHub Stats />
+#### < GitHub Stats />
 
   <img align="left" alt="Paula Wiltiner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&hide_border=true" />
 
-<br />
+
 
 ####  < Most Used Languages />
 
@@ -31,4 +30,3 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/
