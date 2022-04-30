@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 
 
 
-#### You can also find me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)
+#### You can also find me on:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -36,4 +37,4 @@ Here are some ideas to get you started:
 
 </details>
 
-[instagram]: https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/
+[linkedin]: https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/
