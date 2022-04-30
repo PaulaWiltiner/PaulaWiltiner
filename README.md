@@ -25,10 +25,12 @@
 <br />
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulawiltiner&show_icons=true&locale=en&layout=compact&theme=radical" />
+    
+  <img align="center"  alt="Paula Wiltiner's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulawiltiner" />
+
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&locale=en&theme=radical" alt="paulawiltiner" />
+    <img align="right" alt="Paula Wiltiner's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&hide_border=true" />
   </a>
 </div>
 
