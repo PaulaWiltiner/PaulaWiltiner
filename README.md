@@ -4,11 +4,11 @@
 
 #### Some facts about me:
 
-- :heart_eyes: I have always loved entrepreneurship and leadership positions
-- :student: I have already taken three different engineering courses at USP: petroleum, chemistry and production
--	:two_women_holding_hands: I worked with my twin sister as freelance developers. You can check our work here
-- :lotus_position_woman: I love to meditate on the grass or sand at the beach 
-- 😄 Pronouns: She / her
+- :heart_eyes:  I have always loved entrepreneurship and leadership positions
+- :student:  I have already taken three different engineering courses at USP: petroleum, chemistry and production
+-	:two_women_holding_hands:  I worked with my twin sister as freelance developers. You can check our work here
+- :lotus_position_woman:  I love to meditate on the grass or sand at the beach 
+- 😄  Pronouns: She / her
 
 
 #### You can also find me on:
