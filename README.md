@@ -24,6 +24,15 @@
 
 <br />
 
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paulawiltiner&show_icons=true&locale=en&layout=compact&theme=radical" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=paulawiltiner&show_icons=true&locale=en&theme=radical" alt="paulawiltiner" />
+  </a>
+</div>
+
 ###  < Snake-Eating Contribution />
 <p><img align="center" src="https://github.com/paulawiltiner/paulawiltiner/blob/output/github-contribution-grid-snake.svg" alt="paulawiltiner" /></p>
 
