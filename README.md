@@ -92,12 +92,9 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PaulaWiltiner&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=PaulaWiltiner&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+<!-- stats + top-languages: aguardando instância self-hosted no Vercel; trocar as URLs abaixo pelo seu domínio -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaulaWiltiner&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=PaulaWiltiner&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies" />
 
 </div>
 
@@ -105,6 +102,9 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 
 <div align="center">
 
-![snake animation](https://raw.githubusercontent.com/PaulaWiltiner/PaulaWiltiner/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PaulaWiltiner/PaulaWiltiner/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/PaulaWiltiner/PaulaWiltiner/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
