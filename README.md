@@ -68,6 +68,18 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+### 💼 Selected work
+
+**SEK · cybersecurity platform**
+- **Platform SEK** — front-end of product modules (multi-tenant security portal)
+- **@sek/ui** — shared design system: components, tokens & data-viz
+- **Forge** — Claude-based AI development platform (AI-DLC, MCP, skills, agents)
+
+**BuildLab · collaborative, AI-native products**
+- **Antioquia** — AI-powered operations & decision workspace
+- **Lyra** — subscription content / ebooks platform
+- **KLP** — mobile travel app (Expo · React Native)
+
 ### 🚀 Featured projects
 
 | Project | What it is | Stack |
