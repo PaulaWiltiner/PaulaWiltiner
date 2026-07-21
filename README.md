@@ -2,6 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&height=45&lines=AI+Solutions+Engineer;Front-End+Developer;Platform+%26+Developer+Experience;Building+with+Claude+%E2%80%A2+MCP+%E2%80%A2+AI-DLC" alt="titles" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-paula--wiltiner.vercel.app-EEB13F?style=for-the-badge&logo=vercel&logoColor=white)](https://paula-wiltiner.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)
 ![Profile views](https://komarev.com/ghpvc/?username=PaulaWiltiner&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS)
 
@@ -18,7 +19,8 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 - 🤖 Designing **AI-DLC** (AI Development Life Cycle) workflows and agentic tooling with **Claude** (MCP, sub-agents, skills)
 - 🧪 **BuildLab** — a collaborative space where I explore AI-native product development end to end
 - 🎓 Production Engineering @ **UFSC** — Universidade Federal de Santa Catarina (expected 2027)
-- 🌎 São Paulo, Brazil · Remote &nbsp;·&nbsp; 😄 She / her
+- 🔗 Portfolio → **[paula-wiltiner.vercel.app](https://paula-wiltiner.vercel.app/)**
+- 🌎 Florianópolis, Brazil · Remote &nbsp;·&nbsp; 😄 She / her
 
 <br clear="right"/>
 
