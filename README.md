@@ -54,6 +54,13 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
+**Security &amp; identity**
+
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-000000?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-1F1F1F?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 **Cloud &amp; platform**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -75,6 +82,7 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 **SEK · cybersecurity platform**
 - **Platform SEK** — front-end of product modules (multi-tenant security portal)
 - **@sek/ui** — shared design system: components, tokens & data-viz
+- **Identity & Access Management** — Auth0/OAuth2, RBAC, and a silent session-renewal system (cross-tab & cross-request token refresh coordination)
 - **Forge** — Claude-based AI development platform (AI-DLC, MCP, skills, agents)
 
 **BuildLab · collaborative, AI-native products**
