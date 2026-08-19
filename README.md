@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&height=45&lines=AI+Solutions+Engineer;Front-End+Developer;Platform+%26+Developer+Experience;Building+with+Claude+%E2%80%A2+MCP+%E2%80%A2+AI-DLC" alt="titles" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+%26+AI+Engineer;AI+Solutions+Engineer;Platform+%26+Developer+Experience;Building+with+Claude+%E2%80%A2+MCP+%E2%80%A2+AI-DLC" alt="titles" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-paula--wiltiner.vercel.app-EEB13F?style=for-the-badge&logo=vercel&logoColor=white)](https://paula-wiltiner.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)
@@ -12,10 +12,12 @@
 
 ### Hi, I'm Paula 👋
 
-Front-end & AI engineer working at the intersection of **front-end**, **design systems**, and **LLM-powered developer tooling** — turning methodology into tools teams can actually use.
+Full-stack & AI engineer working across **front-end**, **back-end**, **design systems**, and **LLM-powered developer tooling** — turning methodology into tools teams can actually use.
 
 - 🧩 Building product modules and design systems with **React · Vue · Next.js · Nuxt · TypeScript**
-- 🏗️ Structuring codebases as **monorepos** (Turborepo · pnpm) for scale and shared tooling
+- ⚙️ Maintaining and evolving back-end services in **Go · Java/Spring Boot · Node · Python**
+- 🏗️ Structuring codebases as **monorepos** for scale and shared tooling
+- 🤝 Partnering with stakeholders across **Analytics, Sales Excellence, Commercial and Administrative** teams — from need to shipped solution
 - 🤖 Designing **AI-DLC** (AI Development Life Cycle) workflows and agentic tooling with **Claude** (MCP, sub-agents, skills)
 - 🧪 **BuildLab** — a collaborative space where I explore AI-native product development end to end
 - 🎓 Production Engineering @ **UFSC** — Universidade Federal de Santa Catarina (expected 2027)
@@ -49,7 +51,11 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 
 **Backend**
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-437291?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -67,8 +73,7 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Monorepo](https://img.shields.io/badge/Monorepo_Architecture-4E5EE4?style=for-the-badge&logo=turborepo&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Monorepo](https://img.shields.io/badge/Monorepo_Architecture-4E5EE4?style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 
 **Also**
@@ -84,6 +89,7 @@ Front-end & AI engineer working at the intersection of **front-end**, **design s
 - **@sek/ui** — shared design system: components, tokens & data-viz
 - **Identity & Access Management** — Auth0/OAuth2, RBAC, and a silent session-renewal system (cross-tab & cross-request token refresh coordination)
 - **Forge** — Claude-based AI development platform (AI-DLC, MCP, skills, agents)
+- **Cross-team delivery** — solutions built with stakeholders from Analytics, Sales Excellence, Commercial and Administrative areas
 
 **BuildLab · collaborative, AI-native products**
 - **Antioquia** — AI-powered operations & decision workspace
