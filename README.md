@@ -91,6 +91,10 @@ Full-stack & AI engineer working across **front-end**, **back-end**, **design sy
 - **Forge** — Claude-based AI development platform (AI-DLC, MCP, skills, agents)
 - **Cross-team delivery** — solutions built with stakeholders from Analytics, Sales Excellence, Commercial and Administrative areas
 
+**Corporate platform & AI layer**
+- **Corporate operations platform** — single auditable system that replaced a deck-and-spreadsheet cycle across a five-country operation: curated-query architecture (no query language leaves the browser), 8-role RBAC per route and per query, fail-closed append-only audit trail · *TypeScript · Fastify · React · Prisma · Azure*
+- **BIA — Business Intelligence Assistant** — AI layer over that platform: domain-agent orchestration behind a low-cost router, numeric-fidelity verification against the source, inherited RBAC, prompt-injection defense by construction and cost governance · *Claude · evals · telemetry*
+
 **BuildLab · collaborative, AI-native products**
 - **Antioquia** — AI-powered operations & decision workspace
 - **Lyra** — subscription content / ebooks platform
