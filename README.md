@@ -4,6 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-paula--wiltiner.vercel.app-EEB13F?style=for-the-badge&logo=vercel&logoColor=white)](https://paula-wiltiner.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)
+[![Claude Certified Developer](https://img.shields.io/badge/Claude_Certified_Developer-Foundations_(CCDV--F)-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.credly.com/badges/84a2b06a-0ea1-4dd3-ba24-1234f3c55dfb/public_url)
 ![Profile views](https://komarev.com/ghpvc/?username=PaulaWiltiner&style=for-the-badge&color=7C5CFF&label=PROFILE+VIEWS)
 
 </div>
@@ -20,6 +21,7 @@ Full-stack & AI engineer working across **front-end**, **back-end**, **design sy
 - 🤝 Partnering with stakeholders across **Analytics, Sales Excellence, Commercial and Administrative** teams — from need to shipped solution
 - 🤖 Designing **AI-DLC** (AI Development Life Cycle) workflows and agentic tooling with **Claude** (MCP, sub-agents, skills)
 - 🧪 **BuildLab** — a collaborative space where I explore AI-native product development end to end
+- 🎖️ **Claude Certified Developer — Foundations (CCDV-F)** · Anthropic · 2026 — [verify](https://www.credly.com/badges/84a2b06a-0ea1-4dd3-ba24-1234f3c55dfb/public_url)
 - 🎓 Production Engineering @ **UFSC** — Universidade Federal de Santa Catarina (expected 2027)
 - 🔗 Portfolio → **[paula-wiltiner.vercel.app](https://paula-wiltiner.vercel.app/)**
 - 🌎 Florianópolis, Brazil · Remote &nbsp;·&nbsp; 😄 She / her
