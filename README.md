@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+%26+AI+Engineer;AI+Solutions+Engineer;Platform+%26+Developer+Experience;Building+with+Claude+%E2%80%A2+MCP+%E2%80%A2+AI-DLC" alt="titles" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=7C5CFF&center=true&vCenter=true&width=650&height=45&lines=Full-Stack+%26+AI+Engineer;Claude+Certified+Developer+%E2%80%A2+CCDV-F;AI+Solutions+Engineer;Platform+%26+Developer+Experience;Building+with+Claude+%E2%80%A2+MCP+%E2%80%A2+AI-DLC" alt="titles" />
+
+<a href="https://www.credly.com/badges/84a2b06a-0ea1-4dd3-ba24-1234f3c55dfb/public_url"><img src="ccdv-f.png" alt="Claude Certified Developer — Foundations (CCDV-F)" width="120" /></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-paula--wiltiner.vercel.app-EEB13F?style=for-the-badge&logo=vercel&logoColor=white)](https://paula-wiltiner.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paula-wiltiner-santana-2a056719a/)
